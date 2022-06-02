@@ -6,7 +6,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương
     Có một câu muốn hỏi từ rất lâu, cậu có thể trả lời kh? ^^`,
-    btnIntro: '',
+    btnIntro: 'ok nè',
     title: 'cảm ơn cậu vì đã là mở chiếc cod này 💕',
     desc: 'mỗi một người trong cuộc đời đều sẽ hội ngộ hai người, đến cuối cùng... một người ở trong tim và một người ở phương xa. Chỉ muốn hỏi cậu là đồng ý làm người yêu của tớ nhé🥺💕 . Tớ đáng yêu như thế này, kh yêu thì phí lắm🥺 ',
     btnYes: 'aiss, đồng ý nhé',
