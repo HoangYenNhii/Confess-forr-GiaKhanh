@@ -14,7 +14,7 @@ const CONFIG = {
     question: 'lí do cậu thích tớ',
     btnReply: 'Gửi ',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'thông báo! tỏ tình thành công',
+    mess: 'thông báo! tỏ tình thành công 🎊',
     messDesc: 'nhấn enter để làm người yêu tớ',
     btnAccept: 'enter',
     messLink: 'https://www.facebook.com/messages/t/100030035348851'
